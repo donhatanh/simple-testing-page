@@ -3,9 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Deeplink Test</title>
-    <form action="cma://landtransfer">
-        <input type="submit" value="Go" />
-    </form>
+    <button><a href="cma://landtransfer">Go</a></button>
 </head>
 <body>
 
